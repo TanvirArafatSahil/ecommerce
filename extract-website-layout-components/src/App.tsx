@@ -290,7 +290,7 @@ export default function App() {
           <a className="brand-lockup" href="#top" aria-label="Ghorer Bazar home">
             <span className="brand-mark"><Icon name="leaf" size={23} /></span>
             <span className="brand-copy">
-              <span className="brand-name">ghorer bazar</span>
+              <span className="brand-name">ecommerce</span>
               <span className="brand-tagline">Goodness from home</span>
             </span>
           </a>
@@ -513,7 +513,7 @@ export default function App() {
             <a className="brand-lockup footer-brand" href="#top" aria-label="Ghorer Bazar home">
               <span className="brand-mark"><Icon name="leaf" size={23} /></span>
               <span className="brand-copy">
-                <span className="brand-name">ghorer bazar</span>
+                <span className="brand-name">Ecommerce</span>
                 <span className="brand-tagline">Goodness from home</span>
               </span>
             </a>
@@ -559,7 +559,7 @@ export default function App() {
         </div>
 
         <div className="page-width footer-bottom">
-          <span>© {new Date().getFullYear()} Ghorer Bazar. Made for home.</span>
+          <span>© {new Date().getFullYear()} Ecommerce. Made for home.</span>
           <span className="footer-bottom-note"><Icon name="leaf" size={14} /> From our home to yours</span>
         </div>
       </footer>
